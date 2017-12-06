@@ -1,0 +1,2 @@
+,Algorithm,CoinName,FullName,FullyPremined,Id,ImageUrl,Name,PreMinedValue,ProofType,SortOrder,Sponsored,Symbol,TotalCoinSupply,TotalCoinsFreeFloat,Url,description,twitter
+007,Scrypt,007 coin,007 coin (007),0,5294,/media/350595/007.png,007,N/A,PoW,263,False,007,989800,N/A,/coins/007/overview,<p>007 coin is a scypt based alternative crypto currency with difficulty retargetting each block - the proof of work phase will be replaced with a proof of stake phase with a rate of 2.5%.</p>,@007coin
